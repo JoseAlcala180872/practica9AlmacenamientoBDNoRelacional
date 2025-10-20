@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "809496208301",
+    "project_id": "practica9-bb590",
+    "storage_bucket": "practica9-bb590.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809496208301:android:294f6eeb5bc8136ba63724",
+        "android_client_info": {
+          "package_name": "alcala.jose.practica9"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlYmiYbZjZXs2432Y7lS3e1Jcl6QZyVBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
